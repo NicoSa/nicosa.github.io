@@ -21,6 +21,11 @@ sitemap: false
 	font-size: 9px;
 }
 
+.twitter-timeline {
+	width: 80% !important;
+	margin-left: 10% !important;
+}
+
 // Partials
 @import "variables";
 @import "vendor/bourbon/bourbon";
