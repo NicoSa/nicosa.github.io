@@ -11,10 +11,15 @@ sitemap: false
  *
 */
 
+.make_title_responsive{
+   	max-width: 100%;
+}
+
 #social_links{
 		border: 50px !important;
 		margin-left: 4% !important;
 		display: flex !important;
+		width: 100%;
 }
 
 .make_footer_font_smaller{
@@ -22,8 +27,7 @@ sitemap: false
 }
 
 .twitter-timeline {
-	width: 80% !important;
-	margin-left: 10% !important;
+	width: 100% !important;
 }
 
 // Partials
