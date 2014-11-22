@@ -11,6 +11,12 @@ sitemap: false
  *
 */
 
+#social_links{
+		border: 50px !important;
+		margin-left: 4% !important;
+		display: flex !important;
+}
+
 // Partials
 @import "variables";
 @import "vendor/bourbon/bourbon";
@@ -27,3 +33,4 @@ sitemap: false
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "simple-search";
+

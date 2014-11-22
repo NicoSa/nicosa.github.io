@@ -1,26 +1,22 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: 
+excerpt: ""
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
+  credit: 
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Hello stranger! I am Nico and I am a former [Music Producer](http://www.metal-archives.com/artists/Nico/184283) turned Software Engineer living in East London. Like most people who live in East London nowadays I am totally into food and music. I posted about my journey to becoming a Software Engineer in [my old blog](http://nicolearnscoding.blogspot.com). That's in the past and it is time for a new blog - this blog - The Follow Up!
 
-## So Simple Theme is all about:
+<div id="social_links">
+	<div class="hover"><a href="mailto:followup@nicosaueressig.de"><img src="/images/gmail-128-black.png"></a></div>
+	<div class="hover"><a href="http://www.github.com/nicosa" target="_blank"><img src="/images/github-128-black.png"></a></div>
+	<div class="hover"><a href="http://nicolearnscoding.blogspot.com" target="_blank"><img src="/images/blogger-128-black.png"></a></div>
+	<div class="hover"><a href="http://www.twitter.com/nicolrnscodin" target="_blank"><img src="/images/twitter-128-black.png"></a></div>
+	<div class="hover"><a href="http://uk.linkedin.com/in/nicosaueressig" target="_blank"><img src="/images/linkedin-128-black.png"></a></div>
+</div>
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+<br>

@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: The Follow up.
 locale: en_US
-description: Describe your website here.
+description: Read what I write.
 logo: site-logo.png
 search: true
 url: 
@@ -32,9 +32,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Nico Saueressig
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: nico@nicosaueressig.de
   disqus-shortname:
   twitter: #username
   facebook: #username
