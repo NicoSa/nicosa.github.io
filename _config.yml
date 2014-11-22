@@ -33,7 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Nico Saueressig
-  avatar: bio-photo.jpg
+  avatar: 
   email: nico@nicosaueressig.de
   disqus-shortname: Nico
   twitter: nicolrnscodin
