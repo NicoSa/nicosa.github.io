@@ -8,7 +8,7 @@ image:
   credit: 
   creditlink: 
 ---
-I am Nico and I am a former [Music Producer](http://www.metal-archives.com/artists/Nico/184283) turned [Software Engineer](http://www.github.com/nicosa/) living in East London. Like many people who live in East London I am [not originally from here](http://en.wikipedia.org/wiki/Heidelberg) and love food, [music](http://www.wombleech.de/) and my dutch bike. 
+I am Nico and I am a former [Music Producer](http://www.metal-archives.com/artists/Nico/184283) turned [Software Engineer](http://www.github.com/nicosa/) living and working in East London. Like many people who live in East London I am [not originally from here](http://en.wikipedia.org/wiki/Heidelberg) and love food, [music](http://www.wombleech.de/) and my dutch bike. 
 
 I previously gained some attention on my quick journey into becoming a Software Engineer in [my old blog](http://nicolearnscoding.blogspot.com). 
 
